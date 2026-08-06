@@ -1,10 +1,9 @@
 ## 👋 About Me
 
-🎓 I'm a 3rd year Bachelor of Science in Information Technology (BSIT) student.
-💻 Passionate about software development and solving real-world problems through technology.
-🌐 Currently focused on Full Stack Web Development using Laravel and modern web technologies.
-🖥️ I also develop Java desktop applications and continuously improve my programming skills.
-📚 Always eager to learn new technologies and build practical projects.
+🎓 I'm a BS Information Technology (BSIT) student  
+💻 Passionate about programming, software development, and building useful applications  
+🚀 Currently learning Laravel, React, Java, and modern web technologies  
+📚 Always eager to learn, improve my coding skills, and create real-world projects
 
 ## 💻 Tech Stack
 
